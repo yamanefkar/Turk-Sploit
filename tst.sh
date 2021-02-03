@@ -1,7 +1,7 @@
 #!/bin/bash
 #!/bin/sh
-#Code:Yaman Efkar
-#Türk Siber Timi
+#Code:İLKER
+#DEAD SHOOTER
 #İnstagram : @turksibertimi
 #Youtube : YamanEfkar
 clear
@@ -63,7 +63,7 @@ echo -e '\033[31;40;1m
 	────────────────█████████───────────────
 	──────────────█████████████─────────────
 
-	   \e[35m☾★ ☾★ ☾★ ☾★ YamanEfkar ☾★ ☾★ ☾★ ☾★	
+	   \e[35m☾★ ☾★ ☾★ ☾★ PAÇOZ ☾★ ☾★ ☾★ ☾★	
 	 \e[31m☾★ ☾★ ☾★ ☾★ Türk Siber Timi ☾★ ☾★ ☾★ ☾★	
   \e[32m☾★ ☾★ ☾★ ☾★ İnstagram : @turksibertimi ☾★ ☾★ ☾★ ☾★	
 '
